@@ -10,6 +10,12 @@ This Google Colab notebook provides a complete script to fine-tune a Large Langu
 *   **Model Evaluation**: Includes a basic evaluation script with predefined test questions.
 *   **Interactive Interface**: Deploys a Gradio web interface for real-time question-answering with the fine-tuned model.
 
+## 🚀 Screenshot
+![law-screenshot](law-screenshot.png)
+![law-screenshot](law-screenshot-progree-2.png)
+![law-screenshot](law-screenshot-progress-3.png)
+![gradio-app](gradio-app.png)
+
 ## ⚙️ Setup and Prerequisites
 
 1.  **Google Colab**: This notebook is designed to run on Google Colab, leveraging its free GPU resources (preferably T4 or A100 for faster training).
