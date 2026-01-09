@@ -1,0 +1,14 @@
+unsloth
+trl
+peft
+transformers
+accelerate
+bitsandbytes
+datasets
+huggingface_hub
+kagglehub
+pypdf
+pdfplumber
+gradio
+python-multipart
+torch>=2.1.0 # Unsloth might have specific PyTorch requirements
